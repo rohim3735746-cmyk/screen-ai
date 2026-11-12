@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Universal Screen AI</string>
+    <string name="accessibility_description">স্ক্রিনের লেখা স্বয়ংক্রিয়ভাবে পড়ে বাংলায় সাহায্য করার স্মার্ট সার্ভিস।</string>
+</resources>
